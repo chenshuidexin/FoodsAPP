@@ -10,7 +10,7 @@ const routes = [
     path: '/',
     name: 'home',
     component: Home,
-    redirect:'/login'
+    // redirect:'/login'
   },
   {
     path: '/about',
